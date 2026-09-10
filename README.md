@@ -19,7 +19,7 @@
 
 | Repo | What it does |
 |---|---|
-| [`ftf-to-sl`](https://github.com/USERNAME/ftf-to-sl) | From flame transfer functions to Stuart–Landau oscillators: parameter extraction + (K, ζ) applicability maps for swirl-combustor limit cycles |
+| [`ftf-to-sl`](https://github.com/yybelinda/ftf-to-sl) | From flame transfer functions to Stuart–Landau oscillators: parameter extraction + (K, ζ) applicability maps for swirl-combustor limit cycles |
 | `thermoacnet` *(in preparation)* | Thermoacoustic network model in Python: ducts, area jumps, burners, Helmholtz resonators, n-τ flames, modal decomposition — with analytical verification cases |
 
 ## Toolkit
