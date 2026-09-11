@@ -3,7 +3,8 @@
 **Combustion dynamics & thermoacoustics — from heavy-duty gas turbine combustors to open-source low-order models.**
 
 - 🎓 PhD in Energy Engineering (Aalborg University, Denmark) — LES of swirling reacting flows
-- 🎓 Bachelor and Master from BUAA, Beijing University of Aeronautics and Astronautics / Beihang University 
+- 🎓 Bachelor and Master from BUAA, Beijing University of Aeronautics and Astronautics / Beihang University
+- 🎓 Part-time Master of Science in Probability and Mathematical Statistics, Renmin University
 - 🔧 15+ years of gas-turbine combustion R&D: Alstom Power (GT26/GT36 reheat combustors), Ansaldo Energia, and the Chinese Academy of Sciences (Institute of Engineering Thermophysics, Hundred-Talents Program PI)
 - 📐 ~20 journal & conference papers (ASME Turbo Expo, JEGTP, Fuel, Applied Acoustics) · 19+ patent families (EP/CN)
 
