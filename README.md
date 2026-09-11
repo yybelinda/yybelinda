@@ -23,6 +23,7 @@
 | [`thermoacnet`](https://github.com/yybelinda/thermoacnet) | Thermoacoustic network stability analysis in Python: ducts, area jumps, burners, Helmholtz resonators, n-τ flames, modal-to-state-space core — verified against 19 analytical anchors |
 | [`ftf-blocks`](https://github.com/yybelinda/ftf-blocks) | Modular building blocks for flame transfer functions: six elementary operators, series/parallel assembly rules, two-path swirl interference |
 | [`ftf-to-sl`](https://github.com/yybelinda/ftf-to-sl) | From flame transfer functions to Stuart–Landau oscillators: parameter extraction + (K, ζ) applicability maps for swirl-combustor limit cycles |
+| [`microgt-combustor-1d`](https://github.com/yybelinda/microgt-combustor-1d) | 1D preliminary design suite for micro gas turbine combustors: mission profile → cycle → geometry → airflow split → swirler/nozzle → wall thermal network → materials |
 
 
 ## Toolkit
