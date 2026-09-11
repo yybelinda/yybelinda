@@ -14,14 +14,16 @@
 - **Nonlinear dynamics**: Stuart–Landau amplitude equations, Hopf bifurcation, limit-cycle prediction, applicability of low-dimensional models
 - **Data-driven combustion diagnostics**: POD, DMD, singular spectrum analysis (SSA) of pressure / heat-release signals
 - **Combustor design**: low-emission swirl heads, multi-burner arrangements, hydrogen-ready nozzles (8+ patent families)
-- **Low-order modelling in pure Python** (thermoacnet — repo coming soon)
+- **Low-order modelling in pure Python** ([thermoacnet](https://github.com/yybelinda/thermoacnet), [ftf-blocks](https://github.com/yybelinda/ftf-blocks))
 
 ## Open source
 
 | Repo | What it does |
 |---|---|
+| [`thermoacnet`](https://github.com/yybelinda/thermoacnet) | Thermoacoustic network stability analysis in Python: ducts, area jumps, burners, Helmholtz resonators, n-τ flames, modal-to-state-space core — verified against 19 analytical anchors |
+| [`ftf-blocks`](https://github.com/yybelinda/ftf-blocks) | Modular building blocks for flame transfer functions: six elementary operators, series/parallel assembly rules, two-path swirl interference |
 | [`ftf-to-sl`](https://github.com/yybelinda/ftf-to-sl) | From flame transfer functions to Stuart–Landau oscillators: parameter extraction + (K, ζ) applicability maps for swirl-combustor limit cycles |
-| `thermoacnet` *(in preparation)* | Thermoacoustic network model in Python: ducts, area jumps, burners, Helmholtz resonators, n-τ flames, modal decomposition — with analytical verification cases |
+
 
 ## Toolkit
 
