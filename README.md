@@ -25,6 +25,11 @@
 | [`ftf-to-sl`](https://github.com/yybelinda/ftf-to-sl) | From flame transfer functions to Stuart–Landau oscillators: parameter extraction + (K, ζ) applicability maps for swirl-combustor limit cycles |
 | [`microgt-combustor-1d`](https://github.com/yybelinda/microgt-combustor-1d) | 1D preliminary design suite for micro gas turbine combustors: mission profile → cycle → geometry → airflow split → swirler/nozzle → wall thermal network → materials |
 
+## 📄 Preprint
+
+- **Singular spectrum analysis of transient heat release in a premixed swirling combustor**  
+  Yang Yang [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22741569.svg)](https://doi.org/10.5281/zenodo.22741569)
+
 
 ## Toolkit
 
