@@ -13,7 +13,7 @@
 - **Thermoacoustic instability** of lean-premixed and reheat combustors: linear stability, flame transfer / describing functions (FTF / FDF), Helmholtz dampers
 - **Nonlinear dynamics**: Stuart–Landau amplitude equations, Hopf bifurcation, limit-cycle prediction, applicability of low-dimensional models
 - **Data-driven combustion diagnostics**: POD, DMD, singular spectrum analysis (SSA) of pressure / heat-release signals
-- **Combustor design**: low-emission swirl heads, multi-burner arrangements, hydrogen-ready nozzles (8+ patent families)
+- **Combustor design**: low-emission swirl heads, multi-burner arrangements, hydrogen-ready nozzles (8+ patent families); micro turbojet reverse-flow combustors and liner cooling (1D design suite + cooling_stack)
 - **Low-order modelling in pure Python** ([thermoacnet](https://github.com/yybelinda/thermoacnet), [ftf-blocks](https://github.com/yybelinda/ftf-blocks))
 
 ## Open source
@@ -24,6 +24,7 @@
 | [`ftf-blocks`](https://github.com/yybelinda/ftf-blocks) | Modular building blocks for flame transfer functions: six elementary operators, series/parallel assembly rules, two-path swirl interference |
 | [`ftf-to-sl`](https://github.com/yybelinda/ftf-to-sl) | From flame transfer functions to Stuart–Landau oscillators: parameter extraction + (K, ζ) applicability maps for swirl-combustor limit cycles |
 | [`microgt-combustor-1d`](https://github.com/yybelinda/microgt-combustor-1d) | 1D preliminary design suite for micro gas turbine combustors: mission profile → cycle → geometry → airflow split → swirler/nozzle → wall thermal network → materials — 📖 [design report](https://doi.org/10.5281/zenodo.22784135) with a fully worked 80 N example |
+| [`cooling_stack`](https://github.com/yybelinda/cooling_stack) | Modular liner-cooling design tool for small gas-turbine combustors: serial-path modules (backside convection → ribbed channel → impingement → film rows) → bisection energy-balance solver with coolant heat-up → dP budget → automatic advice layer — 14 regression tests with fixed numerical anchors |
 
 ## 📄 Publications & reports
 
@@ -45,7 +46,7 @@ Python (NumPy/SciPy) · CFD: ANSYS Fluent (UDF), STAR-CCM+ · LES & system ident
 - **Research visits** — short stays and secondments possible now; extended sabbatical window from April 2028.
 - **Consulting**: combustor stability assessment, FTF test-rig design, Helmholtz damper tuning, design reviews.
 
-📩 Contact: [yybelinda0000@163.com]
+📩 Contact: [ yybelinda@gmail.com ] · [ yybelinda0000@163.com ]
 
 *Languages: Chinese (native), English (working), German (B1)*
 
